@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FyreApp</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_continue">Login To Continue</string>
+    <string name="concert1">Concert1</string>
+    <string name="concert2">Concert2</string>
+    <string name="concert3">Concert3</string>
+</resources>
