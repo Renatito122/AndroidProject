@@ -24,7 +24,7 @@
         tools:layout="@layout/fragment_notifications" />
     <fragment
         android:id="@+id/navigation_qrcode"
-        android:name="com.example.fyreapp.ui.qrcode.qrcodeFragment"
+        android:name="com.example.fyreapp.ui.qrcode.QrcodeFragment"
         android:label="qrcode"
         tools:layout="@layout/fragment_qrcode" />
 </navigation>
