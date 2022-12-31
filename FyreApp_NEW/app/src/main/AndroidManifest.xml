@@ -13,6 +13,9 @@
         android:theme="@style/Theme.FyreApp"
         tools:targetApi="31"
         android:name="androidx.multidex.MultiDexApplication" >
+        <meta-data
+            android:name="com.google.android.gms.wallet.api.enabled"
+            android:value="true" />
 
         <activity
             android:name=".MainActivity"
