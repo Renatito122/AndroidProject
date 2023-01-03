@@ -25,7 +25,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
-            android:text="Men's Tech Shell Full-Zip"
+            android:text="Tomorrowland 2023 Tickets Stage 1"
             android:textColor="?android:textColorPrimary"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -52,13 +52,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             android:layout_marginBottom="15dp"
-            android:text="A versatile full-zip that you can wear all day long and even..."
+            android:text="Get access to the greatest EDM festival in the world by buying..."
             android:textColor="?android:textColorSecondary" />
-
-        <!--
-            TODO Check out Google Pay's brand guidelines to discover all button types and styles:
-            https://developers.google.com/pay/api/android/guides/brand-guidelines#assets
-        -->
         <include
             android:id="@+id/googlePayButton"
             layout="@layout/buy_with_googlepay_button"
