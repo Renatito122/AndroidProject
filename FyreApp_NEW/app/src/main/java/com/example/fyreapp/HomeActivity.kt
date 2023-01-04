@@ -20,9 +20,14 @@ class HomeActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         val navView: BottomNavigationView = binding.navView
+        navView.menu.findItem(R.id.navigation_home).title = "Schedule"
+        navView.menu.findItem(R.id.navigation_dashboard).title = "Tickets"
+        navView.menu.findItem(R.id.navigation_notifications).title = "Map"
+        navView.menu.findItem(R.id.navigation_qrcode).title = "QR Code"
 
         val navController = findNavController(R.id.nav_host_fragment_activity_home)
-        // Passing each menu ID as a set of Ids because each
+
+            // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
         val appBarConfiguration = AppBarConfiguration(
             setOf(

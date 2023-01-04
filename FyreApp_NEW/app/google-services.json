@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1072841860153",
-    "project_id": "fyreapp-650d2",
-    "storage_bucket": "fyreapp-650d2.appspot.com"
+    "project_number": "341471744824",
+    "project_id": "android-app-fyreapp",
+    "storage_bucket": "android-app-fyreapp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1072841860153:android:91e978639b3046feead9e8",
+        "mobilesdk_app_id": "1:341471744824:android:6013d7fdb75f933e34a7cd",
         "android_client_info": {
           "package_name": "com.example.fyreapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1072841860153-9crr1bvherg3mo1hbsjq39t8frsl0far.apps.googleusercontent.com",
+          "client_id": "341471744824-bo4tq3egp7ccarrcn71mlc3n9id74u85.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyALblgtuJ0uGFp2yVZuafL7CsXynsyE1zs"
+          "current_key": "AIzaSyC-gkNCL8PyZ6v7n3ZbFJqlj41sBeCyQWs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1072841860153-9crr1bvherg3mo1hbsjq39t8frsl0far.apps.googleusercontent.com",
+              "client_id": "341471744824-bo4tq3egp7ccarrcn71mlc3n9id74u85.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

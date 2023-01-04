@@ -56,7 +56,7 @@ class HomeFragment : Fragment() {
             textView7.text = "Nov 13 - 16:30 - Cuca Roseta"
             textView8.text = "Nov 13 - 19:30 - Cuca Roseta"
             textView9.text = "Nov 13 - 22:30 - Cuca Roseta"
-            textView10.text = "Palco 2"
+            textView10.text = "Stage 2"
             textView11.text = "Nov 11 - 22:30 - Marco Paulo"
             textView12.text = "Nov 11 - 00:30 - Marco Paulo"
             textView13.text = "Nov 12 - 19:30 - Marco Paulo"

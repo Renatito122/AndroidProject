@@ -46,24 +46,17 @@ class MapFragment : Fragment() {
 
             mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 10000, null)
 
-            mMap.addMarker(
-                MarkerOptions()
-                    .position(LatLng(37.4219999, -122.0862462))
-                    .title("Spider Man")
-                    .icon(bitmapDescriptorFromVector(activity, R.drawable.spider))
-            )
 
             mMap.addMarker(
                 MarkerOptions()
                     .position(LatLng(37.4629101, -122.2449094))
-                    .title("Iron Man")
-                    .snippet("His Talent : Plenty of money")
+                    .title("Stage 1")
             )
 
             mMap.addMarker(
                 MarkerOptions()
                     .position(LatLng(37.3092293, -122.1136845))
-                    .title("Captain America")
+                    .title("Stage 2")
             )
         }
 
